@@ -1,1 +1,3 @@
-Task o, Where am I?
+Shell Navigation
+Bash projects
+Commands and manipulation of files
