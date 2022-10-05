@@ -13,3 +13,4 @@
 12- it prints a type of file
 13- Creates a symbol link
 14- it creates a scripts that copies the HTML files
+15- This script moves all files beginning with an uppercase to the directory
