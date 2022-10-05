@@ -14,3 +14,4 @@
 13- Creates a symbol link
 14- it creates a scripts that copies the HTML files
 15- This script moves all files beginning with an uppercase to the directory
+16- This creates a script that deletes all files in the current working directory that end with the character ~
